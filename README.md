@@ -54,4 +54,24 @@ The goal of this dashboard is to analyze sales, profit, discounts, and customer 
 Inspired by Krish Naik’s Power BI course. Dataset used is fictional and for educational purposes only.
 
 ---
+
+## 📸 Dashboard Preview
+
+### 🔹 Page 1 – Executive Summary Overview
+![Overview](power_bi_project_1_overview.png)
+
+### 🔹 Page 2 – Top/Bottom 5 Product Analysis
+![Top/Bottom 5](power_bi_project_1_top_bottom_5_analysis.png)
+
+### 🔹 Page 3 – Comparison of Sales, Profit & Quantity
+![Comparison](power_bi_project_1_comparison_sales_profit_quantity.png)
+
+### 🔹 Page 4 – Dynamic Filtering & Edit Interactions
+![Edit Interactions](power_bi_project_1_edit_interactions.png)
+
+### 🔹 Page 5 – Order Table with Visual Filtering
+![Table Visual](power_bi_project_1_table_visual.png)
+
+---
+
 Updated README with full project details
