@@ -36,7 +36,7 @@ The goal of this dashboard is to analyze sales, profit, discounts, and customer 
 ## 📂 Files Included
 
 - `power_bi_project_1.pbix` – Power BI Dashboard File  
-- `Store Data.xlsx` – Source Dataset used for the report *(optional if private)*  
+- `Store+Data.xlsx` – Source Dataset used for the report
 
 ---
 
